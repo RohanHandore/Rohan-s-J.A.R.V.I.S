@@ -1,0 +1,50 @@
+# Environment variables - NEVER commit API keys or secrets
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database files (vector store indices)
+database/vector_store/*.faiss
+database/vector_store/*.pkl
+
+# Chat data (optional - uncomment if you don't want to track chat history)
+# database/chats_data/*.json

@@ -1,0 +1,37 @@
+========================================
+QUICK FIX FOR GITHUB SECRETS ERROR
+========================================
+
+I've created a script for you. Here's what to do:
+
+OPTION 1: Double-click the batch file
+--------------------------------------
+1. Go to: C:\Users\rohan\Desktop\Rohan's J.A.R.V.I.S
+2. Double-click: RUN_FIX_NOW.bat
+3. Follow the prompts
+
+OPTION 2: Copy and paste these commands in PowerShell
+------------------------------------------------------
+Open PowerShell and paste these commands one by one:
+
+cd "C:\Users\rohan\Desktop\Rohan's J.A.R.V.I.S"
+git rm --cached JARVIS/.env
+git checkout --orphan temp-clean
+git add -A
+git commit -m "Clean history without secrets"
+git branch -D master
+git branch -m master
+git push origin master --force
+
+OPTION 3: Use GitHub's unblock URLs (quick but less secure)
+------------------------------------------------------------
+Visit these URLs and click "Allow secret" for each:
+- https://github.com/RohanHandore/Rohan-s-J.A.R.V.I.S/security/secret-scanning/unblock-secret/39PBlywkKpsOzFWWb87KcdQ8pLH
+- https://github.com/RohanHandore/Rohan-s-J.A.R.V.I.S/security/secret-scanning/unblock-secret/39Pfi8Yf4IdR2cWR48t6KAgB9c0
+- https://github.com/RohanHandore/Rohan-s-J.A.R.V.I.S/security/secret-scanning/unblock-secret/39PBm1T65BYNPE7GxK95ksYW3TV
+- https://github.com/RohanHandore/Rohan-s-J.A.R.V.I.S/security/secret-scanning/unblock-secret/39PBm077vVjEFFPHXCKd90SR4go
+- https://github.com/RohanHandore/Rohan-s-J.A.R.V.I.S/security/secret-scanning/unblock-secret/39PfiCv7tbjJhMZqQ9eAIW8JPtO
+
+Then just run: git push origin master
+
+========================================

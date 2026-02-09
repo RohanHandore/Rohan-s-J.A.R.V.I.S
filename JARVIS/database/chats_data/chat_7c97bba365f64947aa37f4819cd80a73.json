@@ -1,0 +1,69 @@
+{
+  "session_id": "7c97bba3-65f6-4947-aa37-f4819cd80a73",
+  "messages": [
+    {
+      "role": "user",
+      "content": "whats the brithdate of yash"
+    },
+    {
+      "role": "assistant",
+      "content": "Yash's birthday is January 8, 1986."
+    },
+    {
+      "role": "user",
+      "content": "no its 23 oct"
+    },
+    {
+      "role": "assistant",
+      "content": "Yash's birthday is on October 23."
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello Rohan."
+    },
+    {
+      "role": "user",
+      "content": "call me sir"
+    },
+    {
+      "role": "assistant",
+      "content": "Good morning, Sir. It's 1:29 AM, in the night."
+    },
+    {
+      "role": "user",
+      "content": "tell me all the birthday dates you know of my frinds and famlily"
+    },
+    {
+      "role": "assistant",
+      "content": "Here is the list of birthday dates I have for your friends and family, Sir:\n1. **Your birthday**: June 21\n2. **Your mother's birthday**: June 1\n3. **Your grandfather's birthday**: June 1\n4. **Your brother Vedant's birthday**: December 15\n5. **Your brother Rohit Dada's birthday**: March 17\n6. **Yash's birthday**: October 23\n7. **Sejal's birthday**: October 13\n8. Ruchi's birthday: February 1\n9. Pani's birthday: March 1\n10. Aisha's birthday: March 13\n11. Tanaji Kaka's birthday: March 12\n12. Emmran's birthday: March 23\n13. PK's birthday: March 27\n14. Mankar's birthday: March 26\n15. Abhu Daa's birthday: April 4\n16. Sahil Sonar's birthday: April 11\n17. Sumedh's birthday: April 14\n18. Tusharr's birthday: April 25\n19. Mama Mami anniversary: May 17\n20. Arnav's birthday: June 4\n21. Pratik's birthday: June 1\n22. Manmeet's birthday: June 14\n23. Mami's birthday: June 29\n24. Shravani's birthday: July 15\n25. Independence Day: August 15\n26. Riddhi's birthday: August 30\n27. Kinu Mama's birthday: September 17\n28. Prajakta's birthday: September 17\n29. Ashish's birthday: September 8\n30. Bapu's birthday: September 11\n31. Gaurav's birthday: September 12\n32. Aditya Handore's birthday: September 18\n33. Shreyu's birthday: September 22\n34. Isha's birthday: October 6\n35. Disha's birthday: October 26\n36. Ishu's birthday: October 6\n37. Komal's birthday: October 27\n38. Harshal's birthday: October 8\n39. Nishh's birthday: October 16\n40. Atharva Karle's birthday: October 2\n41. Apurva's birthday: November 27\n42. Sid's birthday: November 30\n43. Kaustubh's birthday: December 25\n44. Subham Bagul's birthday: December 14\n45. Sheru's birthday: December 31\n46. Vaibhav Godse's birthday: December 16\n\nPlease let me know if I've missed anyone, Sir."
+    },
+    {
+      "role": "user",
+      "content": "when is my ex'a birthday"
+    },
+    {
+      "role": "assistant",
+      "content": "Apurva, your ex-girlfriend, has a birthday on November 27, Sir."
+    },
+    {
+      "role": "user",
+      "content": "do you know who is sakshi?"
+    },
+    {
+      "role": "assistant",
+      "content": "We've discussed Sakshi earlier, Sir. You mentioned that Sakshi is your school mate, and her surname is Sahane."
+    },
+    {
+      "role": "user",
+      "content": "good"
+    },
+    {
+      "role": "assistant",
+      "content": "Very well, Sir."
+    }
+  ]
+}

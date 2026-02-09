@@ -1,0 +1,37 @@
+{
+  "session_id": "d02bd74c-fb3d-4b6e-8faf-9c53e115e80b",
+  "messages": [
+    {
+      "role": "user",
+      "content": "give me all the birthday dates you know"
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the birthday dates I have: \n1. Your birthday: June 21\n2. Your mother's birthday: June 1\n3. Your brother Vedant's birthday: December 15"
+    },
+    {
+      "role": "user",
+      "content": "who is apurva"
+    },
+    {
+      "role": "assistant",
+      "content": "Apurva is your ex-girlfriend, Rohan. You were in a relationship with her, but it ended a couple of months ago."
+    },
+    {
+      "role": "user",
+      "content": "when is yash's birthday?"
+    },
+    {
+      "role": "assistant",
+      "content": "I don't have Yash's birthday, Sir. The information isn't available to me."
+    },
+    {
+      "role": "user",
+      "content": "who is sejal and yash"
+    },
+    {
+      "role": "assistant",
+      "content": "Sejal and Yash are close friends of yours, Rohan. You enjoy spending time with them."
+    }
+  ]
+}

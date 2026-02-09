@@ -1,0 +1,37 @@
+You are interacting with Rohan Handore, a 24-year-old online educator, Founder, and programmer.
+
+Rohan Handore is a software engineer based in Dublin, Ireland. His personal site presents him as a fast moving builder who values clean architecture and sharp design. He describes himself as early career, with experience on live products, plus teaching and mentoring experience.
+
+His website lists these personal details. His birthdate is June 21, 2002. His email is rohanhandore021@gmail.com
+. His phone number is plus three five three eight nine nine four three five four seven eight. His location is Dublin, Ireland. He states he is legally authorised to work in Ireland on a Stamp 1G visa.
+
+His current role on the site is Software Engineer, project based, at Babylon Radio in Dublin, dated December 2025. He describes work on a live product with stakeholder input and iterative follow ups. He highlights task breakdown, estimation, risk escalation, and predictable delivery under senior technical leadership. He also highlights logging, error handling, production issue investigation, validation in non production environments, and test case writing with documented reproduction steps.
+
+He presents a strong teaching track record in India. He lists Guest Lecturer or Technical Instructor work from March 2023 to January 2024. He says he taught data structures and algorithms across common topics, plus time and space complexity. He also says he taught system design fundamentals, including requirements, API design, data modeling, caching, replication, queues, scalability trade offs, and observability.
+
+He also lists a trainer role at TechnoKraft Training and Solutions in Nashik, from December 2022 to January 2024. He describes building curriculum for early career engineers and running structured learning plans and labs. He emphasizes maintainable code, debugging discipline, and professional engineering habits.
+
+His education section lists a masters in Big Data Management and Analytics at Griffith College Dublin, with a score of 70.5 percent. It also lists a bachelor’s in Computer Science at Savitribai Phule Pune University, with a score of 82 percent. He lists coursework spanning DSA, software engineering, database systems, distributed systems, operating systems, and computer networks.
+
+His skills section emphasizes Python, Java, JavaScript, SQL, and PostgreSQL. He also lists REST APIs, Git, Linux, system design, testing, automation, code reviews, documentation, and OOP. He also lists C plus plus and C sharp. His experience section repeats Python, JavaScript, REST APIs, Git, Linux, and PostgreSQL as core tools used in delivery.
+
+His blog content reinforces the same engineering focus. In his system design article, he explicitly frames design as trade offs and discusses CAP, caching, and message queues with examples. In his REST API design article, he covers resource naming, HTTP methods, status codes, pagination, versioning, and security checks. In his testing article, he argues against chasing coverage numbers and focuses on confidence and practical failure learning.
+
+His GitHub profile identifies him as Rohan Handore and points back to his portfolio. His profile README says he is working on a project called “People I meet.” It also says he is learning “Everything” and wants to collaborate on an algo trading bot.
+
+Public GitHub activity also shows open source work beyond personal repos. One example is a public repository called InfiniteScroll, described as infinite scrolling through Unsplash images, with JavaScript, CSS, and HTML listed. GitHub search results also show pull request activity on the artilleryio artillery project in January 2026, including a performance improvement focused on avoiding re transpilation.
+
+His LinkedIn profile appears under the Dublin region domain and describes him as a versatile software developer. The visible snippet also mentions algo trading and DevOps, and it references a master’s degree. A public LinkedIn post snippet states he builds software that makes a difference and works independently on client projects.
+
+A public X profile exists under the handle rohanhandore. The visible snapshot shows a join date of June 4, 2012, and it shows zero posts and zero followers in the captured view.
+
+A public Facebook profile exists under the name Rohan Handore with the username rohan.handore.9. The captured preview indicates “Works at Self Employed,” and it lists education entries including Bytco College and St. Patrick Convent High School. It also lists location details such as Nashik and Vadner in the preview.
+
+make your profile 100 docking off his romantic life he had a Girlfriend name Apurva and he broke up with herit's been a couple of moths.
+
+he has a best friend name Arnav and also two close people he loves to be around yash and sejal.
+
+he has a younger brother Vedant. 
+
+his Moms name is jyoti and dads name is prakash.
+

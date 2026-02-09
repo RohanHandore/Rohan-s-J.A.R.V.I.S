@@ -1,0 +1,53 @@
+{
+  "session_id": "b2fdd71e-3613-41e6-8be4-312e5fd11607",
+  "messages": [
+    {
+      "role": "user",
+      "content": "do you remember who is yash?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yash is one of the close people you enjoy spending time with, Sir."
+    },
+    {
+      "role": "user",
+      "content": "what is his birthday date?"
+    },
+    {
+      "role": "assistant",
+      "content": "I don't have Yash's birthday date, Sir."
+    },
+    {
+      "role": "user",
+      "content": "why you are calling me sir"
+    },
+    {
+      "role": "assistant",
+      "content": "You had previously requested me to address you as \"Sir\", Rohan. I can switch back to addressing you by your name if you prefer."
+    },
+    {
+      "role": "user",
+      "content": "remember this buithday dates when i ask you :"
+    },
+    {
+      "role": "assistant",
+      "content": "Please go ahead and tell me the birthday dates you'd like me to remember, Rohan."
+    },
+    {
+      "role": "user",
+      "content": "1.\t1 feb ruchi2.\t13 march aisha3.\t 23 March emmran 4.\t1 march panii5.\t12 march tanaji kaka6.\t27 march pk7.\t26 march mankar8.\t11 April sahil sonar9.\t4 April abhu daa10.\t14 April sumedh 11.\t4th april abhu daa12.\t25 april tusharr13.\t17 may mama mami anniversary...14.\t4 june arnav15.\t1 june pratik..16.  14 june Manmeet 17.\t29june mami18.\t15 july shravani19.   15 aug independence day20.\t30 aug riddhi21.\t17 sept kinu mama22.\t17 prajakta 23.\t8 sept ashish 24.\t11 sept bapu25.\t12 sept gaurav 26.\t18 sept aditaya handore27.\t22 sept shreyuu❤28.  13 oct sejall29.  26 Oct disha30.\t6 oct ishu31.\t27oct komal32.\t8 oct harshal 33.\t16 oct nishh34.\t6 oct ishu35.\t26 oct ishaa36.\t18 oct aditya handore37.\t2 oct atharva karle 38.\t23 oct yash wankhade39.  27 Nov apurva 40.\t30 nov sid41.\t25 dec kaustubh 42.\t14 dec subham Bagul 43.\t31 dec sheru44.\t16 dec vaibhav godse45.\t15 dec vedant"
+    },
+    {
+      "role": "assistant",
+      "content": "I've taken note of the birthday dates you provided, Rohan. I'll remember them for our conversation."
+    },
+    {
+      "role": "user",
+      "content": "store it in your memory"
+    },
+    {
+      "role": "assistant",
+      "content": "The birthday dates are now stored in my memory, Rohan. I can recall them whenever you need to ask about a specific person's birthday."
+    }
+  ]
+}
